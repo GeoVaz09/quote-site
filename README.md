@@ -11,3 +11,12 @@ A minimalist Flask web app that delivers motivational quotes for developers. Whe
 - ⚡ Lightweight and fast — built with Flask
 - 📱 Responsive design, works on all devices
 - 🛠️ Easy to customize with your own quotes or styling
+
+---
+
+## Use of AI and Testing
+
+This Readme file and the about in the live demo are made by Chat GPT.
+Some code is by old project of mine and resources found on internet.
+
+You can test it live <a href="https://geovaz09.pythonanywhere.com/quote-site">here</a>
