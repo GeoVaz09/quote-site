@@ -16,7 +16,7 @@ A minimalist Flask web app that delivers motivational quotes for developers. Whe
 
 ## Use of AI and Testing
 
-This Readme file and the about in the live demo are made by Chat GPT.
-Some code is by old project of mine and resources found on internet.
-
-You can test it live <a href="https://geovaz09.pythonanywhere.com/quote-site">here</a>
+- This Readme file and the About in the live demo are made by Chat GPT.
+- Some code is by old project of mine and resources found on internet.
+- NO AI was used in the coding part.
+- You can test it live <a href="https://geovaz09.pythonanywhere.com/quote-site">here</a>
